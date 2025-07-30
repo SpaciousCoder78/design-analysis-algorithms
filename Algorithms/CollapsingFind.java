@@ -1,3 +1,9 @@
+//	Algorithm: Weighted Union
+//	Author: Aryan Karamtoth
+//	Date: 29th July 2025
+//	Java Version: 24
+//	License: BSD-3-Clause
+
 import java.util.Scanner;
 
 public class UnionFind {
