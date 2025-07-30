@@ -1,4 +1,4 @@
-//	Algorithm: Weighted Union
+//	Algorithm: Collapsing Find
 //	Author: Aryan Karamtoth
 //	Date: 29th July 2025
 //	Java Version: 24
