@@ -1,3 +1,9 @@
+//	Algorithm: Strassen's Matrix Multiplication
+//	Author: Aryan Karamtoth
+//	Date: 5th Aug 2025
+//	Java Version: 24
+//	License: BSD-3-Clause
+
 import java.util.Scanner;
 
 public class StrassenMatMul {
